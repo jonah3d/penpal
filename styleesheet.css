@@ -1,0 +1,22 @@
+body {
+    background: #000;
+    color: aliceblue;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+
+}
+
+main  {
+    font-family: Consolas, "Andale Mono", monospace;
+    font-weight: normal;
+    font-size: 15px;
+    color: #696969;
+    letter-spacing: 1em;
+    line-height: 1;
+    text-transform: uppercase;
+
+}
