@@ -7,7 +7,6 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
-
 }
 
 main  {
@@ -18,5 +17,13 @@ main  {
     letter-spacing: 1em;
     line-height: 1;
     text-transform: uppercase;
+    position: relative;
+}
 
+
+i.icon {
+    cursor: pointer;
+    margin-top: 20px;
+    font-size: 24px;
+    color: aliceblue;
 }
